@@ -1,6 +1,6 @@
 # Notekeeper using Flutter SQFlite
 
-##### A new Flutter project, Notekeeper, that creates, stores, modifies and delete the notes.
+#### A new Flutter project, Notekeeper, that creates, stores, modifies and delete the notes.
 
 1. Create new notes
 2. Edit exisitng notes
