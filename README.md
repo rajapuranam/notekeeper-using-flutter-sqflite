@@ -2,5 +2,5 @@
 
 A new Flutter project.
 
-- [](./assets/images/ss1.jpg)
+- [](https://github.com/rajapuranam/notekeeper-using-flutter-sqflite/main/assets/images/ss1.jpg)
 - [](./assets/images/ss2.jpg)
